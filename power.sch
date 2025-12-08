@@ -5,8 +5,8 @@ $Descr A1 33110 23386
 encoding utf-8
 Sheet 4 4
 Title "Chiplab  Programmer"
-Date "2025-12-07"
-Rev "draft"
+Date "2025-12-09"
+Rev "beta1"
 Comp ""
 Comment1 "https://buymeacoffee.com/franck78 if usefull to you"
 Comment2 ""
